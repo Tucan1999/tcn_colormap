@@ -1,2 +1,8 @@
 # tcn_colormap
-Redm
+Redm Color Map Zone 
+
+Full configurable
+
+Working on All Cores
+
+DISCORD https://discord.gg/zRCKyjMfUm
